@@ -5,5 +5,9 @@
         <group name="General Purchasing"/>
         <group/>
         <group name="Engineering Inventory Management System"/>
+        <group name="integsys-engr"/>
+        <group name="kumander">
+            <file>file:/D:/Guanzon/GMC%20SEG%20Folder%20-%20Java/engr-purchasing-pojo/src/org/engr/purchasing/pojo/UnitPOReceivingDetailOthers.java</file>
+        </group>
     </open-files>
 </project-private>
